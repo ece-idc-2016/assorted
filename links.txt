@@ -1,0 +1,15 @@
+# helpful links 
+
+there had better be a clear line between today and tomorrow
+
+## XBEE
+
+https://www.parallax.com/product/27982
+
+## RFID: 
+
+https://www.parallax.com/downloads/rfid-card-reader-documentation
+
+##
+
+ 
